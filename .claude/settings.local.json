@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import soccerdata\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
